@@ -3,5 +3,5 @@
 
 - 🔭 Currently working as a QA Engineer for <a href="https://www.corpayone.com/">CorpayOne</a> 
 - 🌱 Improving my JS and TS knowledge
-- 📖 <a href="https://linkedin.com/in/ana.karnishyna">LinkedIn</a>  
+- 📖 <a href="https://www.linkedin.com/in/anakarnishyna/">LinkedIn</a>  
 - 📫 ana.karnishyna@gmail.com
