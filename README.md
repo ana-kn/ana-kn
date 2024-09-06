@@ -3,5 +3,12 @@
 
 - 🔭 Currently working as an Engineering Manager for <a href="https://www.corpayone.com/">CorpayOne</a> 
 - 🌱 Improving my JS and TS knowledge
-- 📖 <a href="https://www.linkedin.com/in/anakarnishyna/">LinkedIn</a>  
-- 📫 ana.karnishyna@gmail.com
+- 📖 <a href="https://www.linkedin.com/in//">LinkedIn</a>  
+
+
+
+### 📫 How To Reach Me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ana.karnishyna@gmail.com)
+<a href="https://www.linkedin.com/in/ana-karnishyna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<br/>
