@@ -5,7 +5,7 @@
 Currently working as an Engineering Manager for <a href="https://www.corpayone.com/">CorpayOne</a>
 <br>
 
-<h4 align="left">📫 How To Reach Me </h4>
+#### 📫 How To Reach Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ana.karnishyna@gmail.com)
 <a href="https://www.linkedin.com/in/ana-karnishyna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
