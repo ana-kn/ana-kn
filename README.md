@@ -2,7 +2,7 @@
 <h4 align="left">A passionate QA Engineer from Ukraine, residing in Denmark </h4>
 <br>
 
-Currently working as an Engineering Manager for <a href="https://www.corpayone.com/">CorpayOne</a>
+Currently working as a Director of QA, Engineering Manager at <a href="https://www.corpayone.com/">CorpayOne</a>
 <br>
 
 #### 📫 How To Reach Me 
