@@ -1,8 +1,8 @@
-<h3 align="left">Hi there, I'm Ana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">  </h3>
-<h4 align="left">A passionate QA Engineer from Ukraine, residing in Denmark </h4>
+<h3 align="left">Hi there, I'm Anastasiia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">  </h3>
+<h4 align="left">A passionate QA Engineer/Analyst from Ukraine, permanently residing in Denmark </h4>
 <br>
 
-Currently working as a Director of QA, Engineering Manager at <a href="https://www.corpayone.com/">CorpayOne</a>
+Currently working as an Engineering Manager at <a href="https://www.corpayone.com/">CorpayOne</a>
 <br>
 
 #### 📫 How To Reach Me 
